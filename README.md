@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on CWIC
 - 🌱 I’m currently learning Node.js
-- 🤔 I’m looking for help with REST APIs
 - 💬 Ask me about React js
 - 📫 How to reach me: twitter - [@sanket1303](https://twitter.com/sanket1303)
 - 😄 Pronouns: Lotus
