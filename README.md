@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on CWIC
-- 🌱 I’m currently learning Node.js
-- 💬 Ask me about React js
+- 🔭 I’m currently working on iot based applications
+- 🌱 I’m currently learning networking
+- 💬 Ask me about Web Apps
 - 📫 How to reach me: twitter - [@sanket1303](https://twitter.com/sanket1303)
 - 😄 Pronouns: Lotus
 - ⚡ Fun fact: Never giveup on your dreams always keep sleeping.
